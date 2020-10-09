@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/%7BGithub-repo-name%7D/static/css/main.ed73a8dc.chunk.css",
-    "main.js": "/%7BGithub-repo-name%7D/static/js/main.32fb620e.chunk.js",
-    "main.js.map": "/%7BGithub-repo-name%7D/static/js/main.32fb620e.chunk.js.map",
-    "runtime-main.js": "/%7BGithub-repo-name%7D/static/js/runtime-main.b5d8f2ee.js",
-    "runtime-main.js.map": "/%7BGithub-repo-name%7D/static/js/runtime-main.b5d8f2ee.js.map",
-    "static/js/2.e86307ba.chunk.js": "/%7BGithub-repo-name%7D/static/js/2.e86307ba.chunk.js",
-    "static/js/2.e86307ba.chunk.js.map": "/%7BGithub-repo-name%7D/static/js/2.e86307ba.chunk.js.map",
-    "index.html": "/%7BGithub-repo-name%7D/index.html",
-    "precache-manifest.ee6cae1c1df7b791e7b5bf41301b735d.js": "/%7BGithub-repo-name%7D/precache-manifest.ee6cae1c1df7b791e7b5bf41301b735d.js",
-    "service-worker.js": "/%7BGithub-repo-name%7D/service-worker.js",
-    "static/css/main.ed73a8dc.chunk.css.map": "/%7BGithub-repo-name%7D/static/css/main.ed73a8dc.chunk.css.map",
-    "static/js/2.e86307ba.chunk.js.LICENSE.txt": "/%7BGithub-repo-name%7D/static/js/2.e86307ba.chunk.js.LICENSE.txt",
-    "static/media/hand.png": "/%7BGithub-repo-name%7D/static/media/hand.d9b069c7.png"
+    "main.css": "/QuizGame/static/css/main.ed73a8dc.chunk.css",
+    "main.js": "/QuizGame/static/js/main.b9362c1e.chunk.js",
+    "main.js.map": "/QuizGame/static/js/main.b9362c1e.chunk.js.map",
+    "runtime-main.js": "/QuizGame/static/js/runtime-main.3654f49d.js",
+    "runtime-main.js.map": "/QuizGame/static/js/runtime-main.3654f49d.js.map",
+    "static/js/2.e86307ba.chunk.js": "/QuizGame/static/js/2.e86307ba.chunk.js",
+    "static/js/2.e86307ba.chunk.js.map": "/QuizGame/static/js/2.e86307ba.chunk.js.map",
+    "index.html": "/QuizGame/index.html",
+    "precache-manifest.eba39855ebf22d8abba087ed6411f6ab.js": "/QuizGame/precache-manifest.eba39855ebf22d8abba087ed6411f6ab.js",
+    "service-worker.js": "/QuizGame/service-worker.js",
+    "static/css/main.ed73a8dc.chunk.css.map": "/QuizGame/static/css/main.ed73a8dc.chunk.css.map",
+    "static/js/2.e86307ba.chunk.js.LICENSE.txt": "/QuizGame/static/js/2.e86307ba.chunk.js.LICENSE.txt",
+    "static/media/hand.png": "/QuizGame/static/media/hand.d9b069c7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5d8f2ee.js",
+    "static/js/runtime-main.3654f49d.js",
     "static/js/2.e86307ba.chunk.js",
     "static/css/main.ed73a8dc.chunk.css",
-    "static/js/main.32fb620e.chunk.js"
+    "static/js/main.b9362c1e.chunk.js"
   ]
 }
