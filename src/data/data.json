@@ -30,12 +30,12 @@
         "prize" : "2,000"
     },
     {
-        "name" : "How old your elder brother was 10 years before you was born, mate?",
+        "name" : "What month of the year has 28 days?",
         "answers": [
-            {"text" : "11 years", "isCorrect" : false},
-            {"text" : "15 years", "isCorrect" : true},
-            {"text" : "12 years", "isCorrect" : false},
-            {"text" : "10 years", "isCorrect" : true}
+            {"text" : "March", "isCorrect" : false},
+            {"text" : "February", "isCorrect" : true},
+            {"text" : "All months", "isCorrect" : true},
+            {"text" : "None", "isCorrect" : false}
         ],
         "prize" : "4,000"
     },
@@ -50,72 +50,72 @@
         "prize" : "8,000"
     },
     {
-        "name" : "How old your elder brother was 10 years before you was born, mate?",
+        "name" : "If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
         "answers": [
-            {"text" : "11 years", "isCorrect" : false},
-            {"text" : "10 years", "isCorrect" : true},
-            {"text" : "12 years", "isCorrect" : false},
-            {"text" : "13 years", "isCorrect" : false}
+            {"text" : "Friend", "isCorrect" : false},
+            {"text" : "Phone", "isCorrect" : false},
+            {"text" : "Life", "isCorrect" : false},
+            {"text" : "Mirror", "isCorrect" : true}
         ],
         "prize" : "16,000"
     },
     {
-        "name" : "How old your elder brother was 10 years before you was born, mate?",
+        "name" : "Who was responsible for the creation of the Night King? [Game of Thrones]",
         "answers": [
-            {"text" : "11 years", "isCorrect" : false},
-            {"text" : "10 years", "isCorrect" : true},
-            {"text" : "12 years", "isCorrect" : false},
-            {"text" : "13 years", "isCorrect" : false}
+            {"text" : "Lannisters", "isCorrect" : false},
+            {"text" : "The First Men", "isCorrect" : false},
+            {"text" : "The Children of the Forest", "isCorrect" : true},
+            {"text" : "The Lord of Loght", "isCorrect" : false}
         ],
         "prize" : "32,000"
     },
     {
-        "name" : "How old your elder brother was 10 years before you was born, mate?",
+        "name" : "Mary has four daughters, and each of her daughters has a brother. How many children does Mary have?",
         "answers": [
-            {"text" : "11 years", "isCorrect" : false},
-            {"text" : "10 years", "isCorrect" : true},
-            {"text" : "12 years", "isCorrect" : false},
-            {"text" : "13 years", "isCorrect" : false}
+            {"text" : "8", "isCorrect" : false},
+            {"text" : "5", "isCorrect" : true},
+            {"text" : "4", "isCorrect" : false},
+            {"text" : "7", "isCorrect" : false}
         ],
         "prize" : "64,000"
     },
     {
-        "name" : "How old your elder brother was 10 years before you was born, mate?",
+        "name" : " It belongs to you, but other people use it more than you do. What is it?",
         "answers": [
-            {"text" : "11 years", "isCorrect" : false},
-            {"text" : "10 years", "isCorrect" : true},
-            {"text" : "12 years", "isCorrect" : false},
-            {"text" : "13 years", "isCorrect" : false}
+            {"text" : "Your meal", "isCorrect" : false},
+            {"text" : "Your phone", "isCorrect" : false},
+            {"text" : "Your money", "isCorrect" : false},
+            {"text" : "Your name", "isCorrect" : true}
         ],
         "prize" : "125,000"
     },
     {
-        "name" : "How old your elder brother was 10 years before you was born, mate?",
+        "name" : "What is the name of Arya’s sword?",
         "answers": [
-            {"text" : "11 years", "isCorrect" : false},
-            {"text" : "10 years", "isCorrect" : true},
-            {"text" : "12 years", "isCorrect" : false},
-            {"text" : "13 years", "isCorrect" : false}
+            {"text" : "Needle", "isCorrect" : true},
+            {"text" : "Fang", "isCorrect" : false},
+            {"text" : "Nymeria", "isCorrect" : false},
+            {"text" : "Ice", "isCorrect" : false}
         ],
         "prize" : "250,000"
     },
     {
-        "name" : "How old your elder brother was 10 years before you was born, mate?",
+        "name" : "What can you catch, but not throw?",
         "answers": [
-            {"text" : "11 years", "isCorrect" : false},
-            {"text" : "10 years", "isCorrect" : true},
-            {"text" : "12 years", "isCorrect" : false},
-            {"text" : "13 years", "isCorrect" : false}
+            {"text" : "Ball", "isCorrect" : false},
+            {"text" : "Phone", "isCorrect" : false},
+            {"text" : "Cold", "isCorrect" : true},
+            {"text" : "Hot", "isCorrect" : false}
         ],
         "prize" : "500,000"
     },
     {
-        "name" : "How old your elder brother was 10 years before you was born, mate?",
+        "name" : "What has to be broken before you can use it?",
         "answers": [
-            {"text" : "11 years", "isCorrect" : false},
-            {"text" : "10 years", "isCorrect" : true},
-            {"text" : "12 years", "isCorrect" : false},
-            {"text" : "13 years", "isCorrect" : false}
+            {"text" : "egg", "isCorrect" : true},
+            {"text" : "leg", "isCorrect" : false},
+            {"text" : "heart", "isCorrect" : false},
+            {"text" : "mind", "isCorrect" : false}
         ],
         "prize" : "1,000,000"
     }     
