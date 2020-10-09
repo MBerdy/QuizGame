@@ -1,0 +1,78 @@
+.FinishPage {
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100%;
+    background: #ffffff;
+    padding: 103px 16px 48px 16px;
+}
+.Main {
+    margin-top: 50px;
+}
+.Text {
+    text-align: center;
+    margin: 0;
+    color: #1C1C21;
+    opacity: 0.5;
+    font-weight: 600;
+    font-size: 18px;
+}
+.Header {
+    text-align: center;
+    margin: 0;
+    margin-top: 8px;
+    font-weight: 600;
+    font-size: 32px;
+    color: #1c1c21;
+}
+
+@media (min-width: 576px) {
+    .Main {
+        margin-top: 100px;
+    }
+}
+
+@media (min-width: 992px) {
+    .FinishPage {
+        padding: 230px 40px 230px 40px;
+    }
+    .Container {
+        display: flex;
+    }
+    .Main {
+        margin-left: 32px;
+        margin-top: 70px;
+    }
+    .Text {
+        text-align: left;
+    }
+    .Header {
+        text-align: left;
+    }
+}
+
+@media (min-width: 1200px) {   
+    .FinishPage {
+        padding: 229px 80px 304px 80px ;
+    } 
+    .Text {
+        font-size: 26px;
+    }
+    .Header {
+        width: 480px;
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 1400px) { 
+    .Text {
+         font-size: 32px;
+     }
+    .Header {
+        width: 620px;
+        font-size: 56px;
+    }
+    .Container {
+        width: 1240px;
+        margin: 0 auto;
+    }
+}

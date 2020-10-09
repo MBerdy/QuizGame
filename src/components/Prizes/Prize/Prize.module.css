@@ -1,0 +1,28 @@
+.Prize {
+    margin: 0 auto;
+    margin-top: 8px;
+    width: 240px;
+    height: 32px;
+    border: 1px solid #D0D0D8;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 8px 24px;
+
+}
+.NotReached {
+    color: #1C1C21;
+}
+.Current {
+    color: #FF8B37;
+    border: 1px solid #FF8B37;
+}
+ .Passed {
+    color: #D0D0D8;
+ }
+
+ @media (min-width: 768px) {
+    .Prize {
+        height: 40px
+    }
+ }
+

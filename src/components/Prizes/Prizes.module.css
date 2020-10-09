@@ -1,0 +1,17 @@
+.Prizes {
+    margin-top: 64px;
+
+    /* transform: translateX(100%); */
+}
+@media (min-width: 768px) {
+    .Prizes {
+        margin-top: 135px;
+        background-color: #fff;        
+    }    
+}
+
+@media (min-width: 992px) {
+    .Prizes {
+        margin-top: 166px;     
+    }    
+}

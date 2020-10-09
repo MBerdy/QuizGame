@@ -1,0 +1,24 @@
+.Answers {
+    margin-top: 91px;
+}
+
+@media (min-width: 768px) {
+    .Answers {
+        margin-top: 170px;
+    }
+}
+
+@media (min-width: 992px) {
+    .Answers {
+        margin-top: 250px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .Answers {
+        margin-top: 363px;
+        width: 850px;
+        display: flex;
+        flex-flow: row wrap
+    }
+}

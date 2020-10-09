@@ -1,0 +1,28 @@
+.Hand {
+    display: block;
+    width: 288px;
+    margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+    .Hand {
+        width: 400px; 
+    }
+}
+@media (min-width: 768px) {
+    .Hand {
+        width: 500px; 
+    }
+}
+@media (min-width: 992px) {
+    .Hand {
+        width: 540px;
+        margin: 0;
+    }
+}
+
+@media (min-width: 1200px) {
+    .Hand {
+        width: 624px;
+    }
+}
