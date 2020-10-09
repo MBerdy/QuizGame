@@ -33,7 +33,7 @@
         "name" : "What month of the year has 28 days?",
         "answers": [
             {"text" : "March", "isCorrect" : false},
-            {"text" : "February", "isCorrect" : true},
+            {"text" : "February", "isCorrect" : false},
             {"text" : "All months", "isCorrect" : true},
             {"text" : "None", "isCorrect" : false}
         ],
